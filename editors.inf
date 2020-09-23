@@ -1,0 +1,19 @@
+[Editors]
+Config=bmp,cpp,css,html,java,zip
+cpp=CPP File Handler|C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+css=StyleSheet Editor|C:\WINDOWS\NOTEPAD.EXE
+zip=Archive Handler|C:\Program Files\WinZip\WINZIP32.EXE
+bmp=MS PaintBrush|C:\PROGRA~1\Accessories\MSPAINT.EXE
+java=WordPad|C:\WINDOWS\WRITE.EXE
+py=Python IDE|D:\Dev\Python20\python.exe
+html=IExplore|C:\PROGRA~1\INTERN~1\IEXPLORE.EXE
+
+[Browsers]
+count=7
+item1=C:\Program Files\Internet Explorer\IExplore.exe
+item2=D:\Program Files\K-Meleon\K-Meleon.exe
+item3=C:\Program Files\Opera\Opera.exe
+item4=C:\Program Files\Netscape\Communicator\Program\Netscape.exe
+item5=C:\WINDOWS\Notepad.exe
+item6=D:\OFFICE\FrontPg.EXE
+item7=c:\windows\Write.exe
