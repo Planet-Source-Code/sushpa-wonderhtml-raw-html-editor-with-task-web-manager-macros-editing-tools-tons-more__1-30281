@@ -1,0 +1,34 @@
+	main.rtf	 --Welcome-- 	item						;
+	getstarted	Getting Started	closed	open				;
+getstarted	features.rtf	Features	item				;
+getstarted	whatsnew.rtf	What's New in 0.90	item			;
+getstarted	whyraw.rtf	Why Raw Editing?	item			;
+	workwithhtml	Working with HTML	closed	open			;
+workwithhtml	styletip.rtf	Tips for style	item				;
+workwithhtml	ocxjava.rtf	ActiveX and Java	item			;
+	editor	The Editor Window	closed	open				;
+editor	madeeasy	Coding Made Easy	closed	open			;
+madeeasy	autolink.rtf	Using AutoLink	item				;
+madeeasy	macros.rtf	Macros/Buttons	item				;
+madeeasy	definition.rtf	Goto Definition	item				;
+editor	find	Find and Replace	closed	open				;
+find	find.rtf	Find text	item					;
+find	replace.rtf	Replace text	item					;
+find	findfile.rtf	Find in Files	item					;
+editor	edittext.rtf	Editing text	item					;
+editor	pastespecial.rtf	Paste Special	item				;
+editor	viewpage.rtf	Viewing pages	item					;
+editor	backups.rtf	Restoring Backups	item				;
+	whtmlinfo	WonderHTML™ Info	closed	open			;
+whtmlinfo	appinfo.rtf	About the app	item				;
+whtmlinfo	credits.rtf	Credits	item
+whtmlinfo	cpyright.rtf	Copyright Info	item				;
+	tipstricks	Tips and Tricks	closed	open				;
+tipstricks	filelist.rtf	Enlist files	item				;
+tipstricks	property.rtf	Properties	item				;
+tipstricks	fileinfo.rtf	File Info	item
+	webman	Web Manager	closed	open					;
+webman	filetree.rtf	The FileTree	item					;
+webman	webedit.rtf	Create/Open webs	item				;
+	publish	On the Network	closed	open					;
+publish	GetRemote.rtf	Get Remote files	item				;
